@@ -1,5 +1,6 @@
 ---
 youTubeId: Nk0ub4AsQiY
+autoScroll: <pauseBeforeScrollInSeconds>,<pixelsToScrollPerSecond>
 ---
 
 # 樂遊記
