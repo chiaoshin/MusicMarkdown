@@ -1,7 +1,7 @@
 ---
 
 youTubeId: Nk0ub4AsQiY
-autoScroll: 5,10
+autoScroll: 10,10
 
 ---
 
