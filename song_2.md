@@ -17,7 +17,18 @@ chords:
     - o1 n1,1 n2,2 n3,3 m4 m5 m6
   D:
     - o0 n1,2 n2,3 n3,2 m4 m5 m6
-
+  E:
+    - o0 n3,1 n4,2 n5,2 n6,0 m1 m2
+  E5:
+    - o0 n6,0 n5,2 n4,2 m3 m2 m1
+  E5/B:
+    - o0 n5,2 n4,2 n3,0 m1 m2 m6
+  Em:
+    - o0 n6,0 n5,2 n4,2 n3,0 n2,0 n1,0
+  Em/G:
+    - o0 n6,3 n5,2 n4,0 n3,0 n2,0 m1
+  Em7/B:
+    - o0 n5,2 n4,0 n3,0 n2,0 n1,0 m6
   G:
     - o0 n6,3 n5,2 n4,0 n3,0 n2,0 n1,3
   G#m:
