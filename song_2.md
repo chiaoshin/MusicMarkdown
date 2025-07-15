@@ -23,8 +23,7 @@ chords:
     - o0 n6,0 n5,2 n4,2 m3 m2 m1
   E5/B:
     - o0 n5,2 n4,2 n3,0 m1 m2 m6
-  Em:
-    - o0 n6,0 n5,2 n4,2 n3,0 n2,0 n1,0
+
   Em/G:
     - o0 n6,3 n5,2 n4,0 n3,0 n2,0 m1
   Em7/B:
