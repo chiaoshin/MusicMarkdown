@@ -38,6 +38,7 @@ l1: 喊得聲嘶力竭
 
 c1: N  A5  N  Bm/D  G/D  GM7/D
 l1: And I want, want it bad
+
 c1: N  Em  N  D  N  Bm/D
 l1: And I want it so bad
 c1: N  E  N  G  N  Em/G
