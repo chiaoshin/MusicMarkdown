@@ -37,8 +37,8 @@ chords:
     - o0 n6,3 n5,0 n4,0 m3 m2 m1
   G5:
     - o0 n6,3 n5,5 m4 m3 m2 m1
-  GM7/D:
-    - o0 n4,0 n3,4 n2,3 n1,2 m5 m6
+  Gmaj7:
+    - o0 n1,2 n2,0 n3,0 n4,0 n5,2 n6,3
     
 ---
 
@@ -59,6 +59,92 @@ l1: 走回頭路 忍著挫折
 
 c1: E  Em/G  Bm/D
 l1: 把自尊塞進床底再假裝聽不見人聲
+
+## 副歌
+c1: D  D  Bm/D
+l1: And I want, want it bad
+
+c1: G/D  E5  Em7/B
+l1: And I want it so bad
+
+c1: E5  Em  G  Em  Am6
+l1: 渴望你的垂涎
+
+c1: Em  G5/D  Em/G
+l1: 喊得聲嘶力竭
+
+c1: A5  Bm/D  G/D  Gmaj7/D
+l1: And I want, want it bad
+
+c1: Em  D  Bm/D
+l1: And I want it so bad
+
+c1: E  G  Em/G
+l1: 喊得聲嘶力竭
+
+c1: Bm/D  Em  G/B
+l1: 紅的鮮豔如血
+
+## 主歌B
+c1: G  Em/G  E5/B
+l1: 火燒得滾燙 世界越燥我就越冷
+
+c1: E5/B  C5  Gmaj7
+l1: 像一場感冒 止不住眼角在沸騰
+
+c1: G5  D5/A  G5
+l1: 無限重溫 永遠燥熱
+
+c1: G#m
+l1: 等待時間 將過往封存
+
+l1: 風從沒停止吹著 怎能期望船過無痕
+
+## 副歌
+c1: A5  Bm/D  G/D  Gmaj7/D
+l1: And I want, want it bad
+
+c1: Em  D  Bm/D
+l1: And I want it so bad
+
+c1: E5  Em  G  Em  Am6
+l1: 渴望你的垂涎
+
+c1: E  G  Em/G
+l1: 喊得聲嘶力竭
+
+c1: A5  Bm/D  G/D  Gmaj7/D
+l1: And I want, want it bad
+
+c1: Em  D  Bm/D
+l1: And I want it so bad
+
+c1: E  G  Em/G
+l1: 喊得聲嘶力竭
+
+l1: 紅得鮮豔如血
+
+## 副歌
+c1: A5  Bm/D  G/D  Gmaj7/D
+l1: And I want, want it bad
+
+c1: Em  D  Bm/D
+l1: And I want it so bad
+
+l1: 愛他有如心眼
+
+l1: 恨之深入骨血
+
+c1: A5  Bm/D  G/D  Gmaj7/D
+l1: And I want, want it bad
+
+c1: Em  D  Bm/D
+l1: And I want it so bad
+
+l1: 捧他高至天際
+
+l1: 踩他猶如爛泥
+
 
 
 
