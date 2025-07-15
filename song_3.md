@@ -101,7 +101,7 @@ l1: 等待時間 將過往封存
 
 l1: 風從沒停止吹著 怎能期望船過無痕
 
-## 主歌B
+## 主歌D
 c1: A5  Bm/D  G/D  Gmaj7/D
 l1: And I want, want it bad
 
@@ -125,7 +125,7 @@ l1: 喊得聲嘶力竭
 
 l1: 紅得鮮豔如血
 
-## 主歌D
+## 主歌E
 c1: A5  Bm/D  G/D  Gmaj7/D
 l1: And I want, want it bad
 
