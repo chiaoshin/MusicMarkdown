@@ -9,7 +9,7 @@ autoScroll: 0,10
 
 ## 主歌A
  
-c1:     F    G
+c1:     F    G E
 l1: 唱首歌，誰家千里迎客
 
 c1:   Am     Em
