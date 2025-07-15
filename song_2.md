@@ -26,12 +26,16 @@ l1: 把自尊塞進床底再假裝聽不見人聲
 ## 副歌
 c1: D  N  D  N  Bm/D  N
 l1: And I want, want it bad
+
 c1: G/D  N  E5  N  Em7/B  N
 l1: And I want it so bad
+
 c1: E5  Em  G  Em  N  Am6
 l1: 渴望你的垂涎
+
 c1: N  Em  N  G5/D  N  Em/G
 l1: 喊得聲嘶力竭
+
 c1: N  A5  N  Bm/D  G/D  GM7/D
 l1: And I want, want it bad
 c1: N  Em  N  D  N  Bm/D
