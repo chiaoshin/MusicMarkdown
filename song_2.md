@@ -9,8 +9,6 @@ chords:
     - o0 n6,0 n5,2 n4,2 m3 m2 m1
   Bm/D:
     - o0 n4,0 n3,4 n2,3 n1,2 m5 m6
-  C:
-    - o1 n1,0 n2,1 n3,0 n4,2 n5,3 m6
   C5:
     - o3 n4,5 n5,5 m6
   Cdim:
@@ -37,7 +35,7 @@ chords:
     - o0 n6,3 n5,0 n4,0 m3 m2 m1
   G5:
     - o0 n6,3 n5,5 m4 m3 m2 m1
-  Gmaj7:
+  Gmaj7/D:
     - o0 n1,2 n2,0 n3,0 n4,0 n5,2 n6,3
     
 ---
